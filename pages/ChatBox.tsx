@@ -34,7 +34,7 @@ function ChatBox() {
             alt="Thumbnail"
           />
         </div>
-        <div className="    ">
+        <div className="">
           <Button variant="outline" className="m-1">
             Summarize in 10 points
           </Button>
