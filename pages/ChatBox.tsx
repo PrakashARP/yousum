@@ -15,7 +15,7 @@ function ChatBox() {
       router.push("/");
     };
 
-    function handleSubmit(event) {
+    function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
         event.preventDefault();
         setSubmittedQuery(query);
       }
