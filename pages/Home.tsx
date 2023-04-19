@@ -94,7 +94,7 @@ function Home() {
           <CardContent>
             <ol>
               <li>Copy paste the youtube link into the field</li>
-              <li>Ask anything about the video like it's ChatGPT</li>
+              <li>Ask anything about the video like its ChatGPT</li>
 
               <li>Share with friends to save everyone time!</li>
             </ol>

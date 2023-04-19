@@ -39,10 +39,10 @@ function ChatBox() {
             Summarize in 10 points
           </Button>
           <Button variant="outline" className="m-1">
-            Whats the main takeaway?
+            Whats the main takeaway
           </Button>
           <Button variant="outline" className="m-1">
-            Explain like Im 5
+            Explain like Im
           </Button>
         </div>
       </div>
